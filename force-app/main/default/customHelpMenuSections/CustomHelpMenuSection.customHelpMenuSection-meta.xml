@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomHelpMenuSection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customHelpMenuItems>
+        <linkUrl>https://github.com/VemoSF/SF_CPQ/</linkUrl>
+        <masterLabel>Nav Repo</masterLabel>
+        <sortOrder>1</sortOrder>
+    </customHelpMenuItems>
+    <masterLabel>GitHub</masterLabel>
+</CustomHelpMenuSection>
